@@ -40,3 +40,31 @@ When the user refreshes the page:
 ---
 
 ## 📂 File Structure
+Dice-game/
+│
+├── index.html # Main game page
+├── style.css # Custom styles
+├── index.js # Game logic (jQuery)
+├── images/ # Dice face images
+└── README.md
+
+
+---
+
+## 🚀 Learning Focus
+This project helped me strengthen:
+- DOM manipulation using **jQuery**
+- Random number generation in JavaScript
+- Responsive web layout design with **Bootstrap**
+- Writing clean, readable front-end code
+
+---
+
+## 🌟 Future Improvements
+- Add a “Play Again” button instead of refreshing  
+- Keep score across multiple rounds  
+- Add dice roll animation and sound effects  
+
+---
+
+⭐ **Tip:** My very first interactive web project — small, fun, and a milestone in learning how to bring static pages to life with JavaScript and jQuery.
